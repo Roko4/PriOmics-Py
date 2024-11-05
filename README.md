@@ -16,13 +16,6 @@ In addition to the inputs of the standard MGM, we need 2 more arguments:
 - groups_X: List of groups for prior assumption (for continuous data)
 - prior_X: List of the prior assumptions, either "A" or "B". If no prior should be assigned to set the corresponding feature to a group size of one. The prior will then be inored. Applying both priors to different feature groups in the same model is possible.
 
-
-## License
-MIT License
-Copyright (c) 2024 Robin Kosch and Michael Altenbuchinger:
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 ## Citation
 Kosch, R., Limm, K., Staiger, A. M., Kurz, N. S., Seifert, N., Oláh, B., ... & Altenbuchinger, M. (2023). PriOmics: integration of high-throughput proteomic data with complementary omics layers using mixed graphical modeling with group priors. bioRxiv, 2023-11.
 
