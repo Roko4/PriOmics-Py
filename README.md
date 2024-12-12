@@ -17,6 +17,9 @@ For an R version of the algorithm, see: https://github.com/Roko4/PriOmics
 - Direct Installation:
 ```pip install priomics-py-main/.```
 
+### Import
+```import PriOmics.priomics```
+
 ## Usage
 
 ### Standard MGM
