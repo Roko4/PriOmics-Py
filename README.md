@@ -18,6 +18,7 @@ For an R version of the algorithm, see: https://github.com/Roko4/PriOmics
 ```pip install priomics-py-main/.```
 
 ### Import
+- Import the module using:
 ```import PriOmics.priomics```
 
 ## Usage
