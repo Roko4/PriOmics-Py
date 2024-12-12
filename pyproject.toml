@@ -1,6 +1,6 @@
 [project]
 name = "PriOmics-Py"
-version = "0.1"
+version = "1.0"
 description = "Mixed Graphical models with grouping priors"
 authors = [{ name = "Robin Kosch", email = "kosch.robin@mh-hannover.de" }]
 dependencies = [
