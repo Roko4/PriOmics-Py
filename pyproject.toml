@@ -1,0 +1,16 @@
+[project]
+name = "PriOmics-Py"
+version = "0.1"
+description = "Mixed Graphical models with grouping priors"
+authors = [{ name = "Robin Kosch", email = "kosch.robin@mh-hannover.de" }]
+dependencies = [
+    "numpy>=1.21.0",
+    "apgpy @ git+https://github.com/bodono/apgpy"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
